@@ -2,7 +2,7 @@
 
 **Попап звонка, click-to-call и заявки из телефона — прямо в GLPI.** 
 
-важно! через промежуточную локальную ATC | important! through an intermediate local ATC
+> важно! через промежуточную локальную ATC | important! through an intermediate local ATC
 
 **Русский** · [English](#en)
 
